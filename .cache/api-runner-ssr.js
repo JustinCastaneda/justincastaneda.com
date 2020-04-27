@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Users/justincastaneda/Documents/justincastaneda.com/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"minimal-ui","icon":"src/images/gatsby-icon.png"},
+      options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#333333","theme_color":"#333333","display":"minimal-ui","icon":"src/images/JC_Icon.png"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
